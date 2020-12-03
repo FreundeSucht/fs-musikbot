@@ -4,9 +4,6 @@
   "main": "index.js",
   "repository": "https://github.com/ZerioDev/Music-bot.git",
   "author": "ZerioDev",
-  "engines": {
-    "node": "^12.x"
-  }
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
@@ -15,5 +12,8 @@
     "ffmpeg-static": "^4.2.7",
     "opusscript": "^0.0.7",
     "request": "2.81.0"
+    "engines": {
+    "node": "^12.x"
+    }
   }
 }
